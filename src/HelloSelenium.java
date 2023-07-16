@@ -20,7 +20,7 @@ public class HelloSelenium {
 	}
 	
 	public void sAbc() {
-		System.out.println("Hello");
+		System.out.println("Hello1");
 	}
 
 }
