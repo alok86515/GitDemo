@@ -18,5 +18,9 @@ public class HelloSelenium {
 		
 		driver.close();
 	}
+	
+	public void sAbc() {
+		System.out.println("Hello");
+	}
 
 }
